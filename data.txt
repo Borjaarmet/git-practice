@@ -1,0 +1,4 @@
+Nombre: ironhacker
+edad: 32
+color: azul
+
